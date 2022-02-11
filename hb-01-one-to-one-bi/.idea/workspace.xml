@@ -55,7 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hb-01-one-to-one-bi" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -171,7 +171,6 @@
       <workItem from="1644363017124" duration="1079000" />
       <workItem from="1644400281366" duration="6000" />
       <workItem from="1644533509958" duration="2827000" />
-      <workItem from="1644563893463" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="HT-1 base project set up">
       <created>1644273809377</created>

@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hibernate-tutorial.iml" filepath="$PROJECT_DIR$/hibernate-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-01-one-to-one-bi/hb-01-one-to-one-bi.iml" filepath="$PROJECT_DIR$/hb-01-one-to-one-bi/hb-01-one-to-one-bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-01-one-to-one-uni/hb-01-one-to-one-uni.iml" filepath="$PROJECT_DIR$/hb-01-one-to-one-uni/hb-01-one-to-one-uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-tutorial/hibernate-tutorial.iml" filepath="$PROJECT_DIR$/hibernate-tutorial/hibernate-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hibernateUdemy.iml" filepath="$PROJECT_DIR$/.idea/hibernateUdemy.iml" />
     </modules>
   </component>
 </project>
