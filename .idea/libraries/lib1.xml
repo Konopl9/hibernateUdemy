@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/classmate-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/jaxb-runtime-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/istack-commons-runtime-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/hibernate-core-5.6.5.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/txw2-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/FastInfoset-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/hibernate-commons-annotations-5.1.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/byte-buddy-1.12.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/stax-ex-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/javax.persistence-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/javax.activation-api-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/jboss-logging-3.4.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/mysql-connector-java-8.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate-tutorial/lib/jandex-2.4.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
