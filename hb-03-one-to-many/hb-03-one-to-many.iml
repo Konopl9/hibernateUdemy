@@ -5,14 +5,16 @@
       <configuration>
         <datasource-map />
         <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/out/production/hibernate-tutorial/main/java/hibernate.cfg.xml" />
         <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/java/hibernate.cfg.xml" />
       </configuration>
     </facet>
-    <facet type="jpa" name="JPA">
+    <facet type="hibernate" name="Hibernate2">
       <configuration>
-        <setting name="validation-enabled" value="true" />
-        <datasource-mapping />
+        <datasource-map />
         <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/out/production/hibernate-tutorial/main/java/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/java/hibernate.cfg.xml" />
       </configuration>
     </facet>
   </component>
@@ -23,6 +25,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="antlr-2.7.7" level="project" />
+    <orderEntry type="library" name="antlr-2.7.71" level="project" />
   </component>
 </module>
