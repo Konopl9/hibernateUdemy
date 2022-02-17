@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/hb-01-one-to-one-bi/hb-01-one-to-one-bi.iml" filepath="$PROJECT_DIR$/hb-01-one-to-one-bi/hb-01-one-to-one-bi.iml" />
       <module fileurl="file://$PROJECT_DIR$/hb-02-one-to-one-uni/hb-02-one-to-one-uni.iml" filepath="$PROJECT_DIR$/hb-02-one-to-one-uni/hb-02-one-to-one-uni.iml" />
       <module fileurl="file://$PROJECT_DIR$/hb-03-one-to-many/hb-03-one-to-many.iml" filepath="$PROJECT_DIR$/hb-03-one-to-many/hb-03-one-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-04-one-to-many-uni/hb-04-one-to-many-uni.iml" filepath="$PROJECT_DIR$/hb-04-one-to-many-uni/hb-04-one-to-many-uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-05-many-to-many/hb-05-many-to-many.iml" filepath="$PROJECT_DIR$/hb-05-many-to-many/hb-05-many-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-eager-vs-lazy-demo/hb-eager-vs-lazy-demo.iml" filepath="$PROJECT_DIR$/hb-eager-vs-lazy-demo/hb-eager-vs-lazy-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/hibernate-tutorial/hibernate-tutorial.iml" filepath="$PROJECT_DIR$/hibernate-tutorial/hibernate-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hibernateUdemy.iml" filepath="$PROJECT_DIR$/.idea/hibernateUdemy.iml" />
     </modules>
